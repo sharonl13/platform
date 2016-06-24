@@ -9,6 +9,11 @@
  *  red: #c5392f
  *  white: #ffffff
  *  isn't this such a brilliant color scheme though
+ *
+ *  new updated colors:
+ *  blue: #223153
+ *  pinkish red: #FF4C62
+ *  white: #ffffff
  */
 
 * {
@@ -17,7 +22,7 @@
 }
 
 .button-primary {
-    background-color: #0a4883;
+    background-color: #223153;
     border-radius: 4px;
     color: white;
     text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
@@ -54,7 +59,7 @@ p, ul {
 }
 
 .pure-menu-link {
-    color: #0a4883;
+    color: #223153;
 }
 
 .content {
@@ -63,7 +68,7 @@ p, ul {
 }
 
 .call-to-action {
-    background: #c5392f;
+    background: #FF4C62;
     color: white;
     padding: 20px 20px;
     margin-bottom: 20px;
@@ -100,7 +105,7 @@ p, ul {
 }
 
 .content-section {
-    background-color: #0a4883;
+    background-color: #223153;
     margin-top: 10px;
     padding: 2px 20px;
     color: white;
@@ -160,12 +165,12 @@ label.inline-label {
 
 .message-error {
     color: white;
-    background-color: #c5392f;
+    background-color: #FF4C62;
 }
 
 .message-success, .message-info {
     color: white;
-    background-color: #0a4883;
+    background-color: #223153;
 }
 
 .person-card {
